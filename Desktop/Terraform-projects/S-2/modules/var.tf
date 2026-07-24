@@ -1,0 +1,9 @@
+variable "ami_value" {
+  description = "value for ami"
+}
+variable "instance_type_value" {
+  description = "value for instance type"
+}
+variable "key_name_value" {
+  description = "value for key name"
+}
